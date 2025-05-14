@@ -3419,7 +3419,7 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		overflow: hidden;
 		position: relative;
-		width: 8em;
+		width: 4em;
 	}
 
 		#intro .logo:before {
@@ -3439,7 +3439,7 @@ input, select, textarea {
 		#intro .logo img {
 			display: block;
 			margin-left: -0.25em;
-			width: 8em;
+			width: 3.5em;
 		}
 
 	#intro header h2 {
